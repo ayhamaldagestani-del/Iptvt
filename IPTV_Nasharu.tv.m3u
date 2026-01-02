@@ -1,0 +1,1331 @@
+#EXTM3U 
+#EXTINF:-1  tvg-id="pervy" ,Первый канал HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="pervy" ,Первый канал
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="pervy-pl2" ,Первый канал (+2)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="pervy-pl4" ,Первый канал (+4)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="pervy-pl6" ,Первый канал (+6)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="pervy-pl9" ,Первый канал (+9)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="pervy-mn1" ,Первый канал (-1)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rossia1" ,Россия 1 HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rossia1" ,Россия 1
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rossia1-pl2" ,Россия 1 (+2)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rossia1-pl4" ,Россия 1 (+4)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rossia1-pl6" ,Россия 1 (+6)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rossia1-pl9" ,Россия 1 (+9)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rossia1-m1" ,Россия 1 (-1)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rtr-planeta-eu" ,РТР
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv" ,НТВ HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv" ,НТВ
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv-pl2" ,НТВ (+2)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv-pl4" ,НТВ (+4)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv-pl7" ,НТВ (+7)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv-mn1" ,НТВ (-1)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv-mir" ,НТВ Мир
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv-xit" ,НТВ Хит
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv-serial" ,НТВ Сериал
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv-pravo" ,НТВ Право
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntv-style" ,НТВ Стиль
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tnt" ,ТНТ HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tnt" ,ТНТ
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tnt-pl2" ,ТНТ +2
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tnt-pl4" ,ТНТ +4
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tnt-pl7" ,ТНТ +7
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tnt4" ,ТНТ4 HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tnt4" ,ТНТ4
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tnt4-pl2" ,ТНТ4 (+2)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tnt4-pl4" ,ТНТ4 (+4)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tnt4-pl7" ,ТНТ4 (+7)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rentv" ,РЕН ТВ HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rentv" ,РЕН ТВ
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rentv-pl2" ,РЕН ТВ +2
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rentv-pl4" ,Рен ТВ +4
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rentv-pl7" ,Рен ТВ +7
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sts" ,СТС HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sts" ,СТС
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sts-pl2" ,СТС (+2)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sts-pl4" ,СТС (+4)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sts-pl7" ,СТС (+7)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sts-love" ,СТС Love
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="super" ,Суббота HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="super" ,Суббота
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="yu" ,Ю ТВ
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="domashny" ,Домашний HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="domashny" ,Домашний
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="domashny-pl2" ,Домашний +2
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="domashny-pl4" ,Домашний +4
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="domashny-pl7" ,Домашний +7
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tvcentr" ,ТВЦ
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tvcentr-pl2" ,ТВЦ +2
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tvcentr-pl4" ,ТВЦ +4
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tvcentr-pl7" ,ТВЦ +7
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="5kanal-ru" ,Пятый Канал HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="5kanal-ru" ,Пятый Канал
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="5kanal-ru-pl2" ,Пятый Канал (+2)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="5kanal-ru-pl4" ,Пятый Канал (+4)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="5kanal-ru-pl7" ,Пятый Канал (+7)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="zvezda" ,Звезда HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="zvezda" ,Звезда
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="zvezda-pl2" ,Звезда (+2)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="zvezda-pl4" ,Звезда (+4)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="zvezda-pl7" ,Звезда (+7)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tv3-ru" ,ТВ3
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tv3-ru-pl2" ,ТВ3 +2
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tv3-ru-pl4" ,ТВ3 +4
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tv3-ru-pl7" ,ТВ3 +7
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="che" ,Че
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="che-pl2" ,Че +2
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="che-pl4" ,Че +4
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="che-pl7" ,Че +7
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mir" ,Мир
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kvn-tv" ,КВН ТВ
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="anekdottv" ,Анекдот ТВ
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="piatnica" ,Пятница HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="piatnica" ,Пятница
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="piatnica-pl2" ,Пятница (+2)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="piatnica-pl4" ,Пятница (+4)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="piatnica-pl7" ,Пятница (+7)
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="centralnoye-tv" ,Центральное телевидение
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sarafan" ,Сарафан
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="gags-network" ,Gags Network
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="2na2" ,2x2
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rbk" ,РБК-ТВ
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="euronews" ,Euronews Россия
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rossia-24" ,Россия-24
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="360-news" ,360° Новости HD
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="izvestia" ,Известия
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mir-24" ,Мир 24
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="moskva-24" ,Москва 24
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="dozhd" ,Дождь
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kultura" ,Россия К +0
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kultura-pl2" ,Россия К +2
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kultura-pl4" ,Россия К +4
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kultura-pl7" ,Россия К +7
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sankt-peterburg" ,Санкт-Петербург
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="otr" ,ОТР
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="spas" ,Спас
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="soyuz" ,Союз
+#EXTGRP:Русские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="grozny" ,Грозный
+#EXTGRP:Русские
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1  tvg-id="rgvk-dagestan" ,РГВК Дагестан
+#EXTGRP:Русские
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:-1  tvg-id="kvartal-tv" ,Квартал ТВ
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="novy-kanal-ua" ,Новий канал
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="stb-ua" ,СТБ
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="inter-ua" ,Интер
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ictv-ua" ,ICTV
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ictv-ukraine" ,ICTV 2 HD
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="1plus1" ,1+1 Марафон UA
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="1plus1-ukraina" ,1+1 Україна UA
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ua-pershy" ,UA:Перший HD
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="espreso-tv" ,Еспресо TV
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="unian-tv" ,Уніaн HD
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntn-ua" ,НТН HD UA
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="2plus2" ,2+2
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="k1-ua" ,К1
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="k2-ua" ,К2
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="filmua-drama" ,Film.Ua Drama
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="enter-film" ,Enter-фільм
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rybalka" ,Рибалка HD
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tet-ua" ,ТЕТ
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="melodrami" ,Мелодрами
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bigudi" ,Бiгудi
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="priamyj" ,Прямий HD
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="24news-ua" ,24 канал
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ua-tv" ,FREEДОМ UATV
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sonce-ua" ,Сонце
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mega-ua" ,Мега
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="otse" ,ОЦЕ HD
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rada-ua" ,Рада HD
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="pixel" ,Піксель
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ua-odesa" ,Суспільне Одеса
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="reportior" ,Репортер (Одесса)
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1 ,Круг (Одесса)
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1 ,СК1 (Житомир)
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1 ,Измаил ТВ
+#EXTGRP:Украинские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman" ,CineMan
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-premium" ,CineMan Premium
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-top" ,CineMan Top
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-action" ,CineMan Action
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-marvel" ,CineMan Marvel
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-melodrama" ,CineMan Melodrama
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-comedy" ,CineMan Комедия
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-thriller" ,CineMan Thriller
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-katastrofy" ,CineMan Катастрофы
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-uzhasy" ,CineMan Ужасы
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-vhs" ,CineMan VHS
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-skorpom" ,CineMan Скорая помощь
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-miniseries" ,CineMan MiniSeries
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-musw" ,CineMan Ментовские Войны
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-gluhar" ,CineMan Глухарь + Карпов
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-pes" ,CineMan ПёС
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-lesnik" ,CineMan Лесник
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-aircrash" ,CineMan Air Crash
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-sssr-fhd" ,CineMan CCCP FHD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="amedia-premium" ,Amedia Premium
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="amedia-hit" ,Amedia Hit
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="amedia1" ,А1 HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="amedia2" ,A2 HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinopremiera-hd" ,КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinoxit" ,КИНОХИТ
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinomiks" ,КИНОМИКС
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinosemiya" ,КИНОСЕМЬЯ
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinosvidanie" ,КИНОСВИДАНИЕ
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="muzhskoe-kino" ,МУЖСКОЕ КИНО
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinokomedia" ,Кинокомедия
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinouzhas" ,Киноужас HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="vip-premiere" ,Viju+ Premiere HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tv1000-action" ,Viju TV1000 Action
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="vip-megahit" ,Viju+ Megahit HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="vip-comedy" ,Viju+ Comedy HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tv1000-cee" ,Viasat Kino HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tv1000" ,Viju TV1000
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="vip-serial" ,Viju+ Serial HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinopokaz" ,Кинопоказ HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="premialnoe-hd" ,Премиальное HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="khit" ,Хит HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kino-tv" ,КИНО ТВ
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ostrosiuzhetnoe-hd" ,Остросюжетное HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="blokbaster" ,Блокбастер HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kino-24" ,Kino 24
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinoliving" ,KinoLiving
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kamedi" ,Камеди HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="komedijnoe-hd" ,Комедийное HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="russkaya-komedia" ,Комедия
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="shokiruyushchee-hd" ,Шокирующее HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="trashtv" ,Trash HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="nst" ,НСТ
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="hollywood-hd" ,Hollywood HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="hollywood" ,Hollywood
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="paramount-comedy" ,Comedy Central
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mir-seriala" ,Мир Сериала
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinoseria" ,Киносерия
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="domkino-premium" ,Дом Кино Премиум HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="domkino" ,Дом Кино
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="nashe-novoe-kino" ,Наше новое кино
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="nashehd" ,Наше HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="nash-kinopokaz" ,Наш Кинопоказ HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tv1000-russkoe-kino" ,Viju TV1000 Русское
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-rukino" ,CineMan РуКино
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rodnoe-kino" ,Родное кино
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="pobeda" ,Победа
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="arsenaltv" ,Арсенал HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="patriot" ,Патриот
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="russky-roman" ,Русский роман
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="pro-lyubov" ,Про Любовь HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="romantichnoe-hd" ,Романтичное HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="dushevnoe-hd" ,Душевное кино HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="russky-bestseller" ,Русский бестселлер
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="russky-detektiv" ,Русский детектив
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="russky-illuzion" ,Русский Иллюзион
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="illuzion-plus" ,Иллюзион+
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="feniks-plus-kino" ,Феникс+ Кино
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mosfilm" ,Мосфильм. Золотая коллекция
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="lubimoe-kino" ,Любимое кино
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="retro-tv" ,Ретро
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="vhs-ka" ,VHS-ка HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sony-scifi" ,Sony Sci-Fi
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="dorama" ,Дорама
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="fox" ,FX HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="foxlife" ,FX Life
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="shot-tv" ,Shot TV
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bolt-ru" ,Bolt
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinoman" ,Киноман
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cinema-ru" ,Cinema
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tvxxi" ,TV XXI
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="evrokino" ,Еврокино
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-svaty" ,CineMan Сваты
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="star-cinema" ,Star Cinema Россия HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="star-family" ,Star Family Россия HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kineko" ,Кинеко
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sapfir" ,Сапфир
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sony-tv" ,.red
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sony-turbo" ,.black
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bollywood-hd" ,Bollywood HD
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="indiyskoe-kino" ,Индийское кино
+#EXTGRP:Кино
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-fitnes" ,CineMan Фитнес
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-premier" ,МАТЧ ПРЕМЬЕР
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-premier" ,МАТЧ ПРЕМЬЕР SD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-tv" ,Матч ТВ
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-football1" ,Матч! Футбол 1
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-football2" ,Матч! Футбол 2
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-football3" ,Матч! Футбол 3
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="okko-football" ,Окко Футбол HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="football-ru" ,Футбол
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="okko-sport-2" ,Окко.Прайм Спорт
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="okko-sport" ,Окко Спорт HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-igra" ,Матч! Игра
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-arena" ,Матч! Арена HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-arena" ,Матч! Арена
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-nash-sport" ,МАТЧ! СТРАНА
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="match-boets" ,МАТЧ! Боец
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="setanta-kz" ,Setanta Qazaqstan HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="setanta-sports" ,Setanta Eurasia HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="setanta-sports-plus" ,Setanta Eurasia Plus
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1 ,Спорт онлайн
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="vip-sport-3" ,ViP Sport 3
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="eurosport1" ,Eurosport 1 HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="eurosport1" ,Eurosport 1 HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="eurosport2" ,Eurosport 2 HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="eurosport2" ,Eurosport 2 HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="viasat-sport" ,Viju+ Sport
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mir-basketbola" ,Мир баскетбола
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="m1global" ,MMA-TV.com
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="fightbox-hd" ,FightBox
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ufc" ,Удар HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="box-tv" ,Бокс ТВ
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kxl-hd" ,КХЛ HD
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kxl" ,КХЛ ТВ
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="start" ,Старт
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="belarus5" ,Беларусь 5 BY
+#EXTGRP:Спорт
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="national-geographic" ,National Geographic HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="discovery-channel" ,Discovery Channel HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="hd-life" ,HDL HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="viasat-nature-history-hd" ,Viju+ Planet HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="nauka-20" ,Наука HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="curiosity-stream" ,Curiosity Stream HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="galaxy-tv" ,Galaxy
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tlc" ,TLC
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="id-xtra-eu" ,Investigation Discovery
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="animal-planet-eu" ,Animal Planet
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="nat-geo-wild" ,Nat Geo Wild
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="love-nature-4k" ,Love Nature 4K
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="viasat-nature" ,Viju Nature
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rtg-tv" ,RTG TV
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="travel-channel" ,Travel Channel
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="travel-adventure" ,Travel+Adventure
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="moya-planeta" ,Моя Планета
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bolshaya-azia" ,Большая Азия HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="viasat-explore" ,Viju Explore
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="the-explorers" ,The Explorers
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="history" ,History HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="h2" ,History2
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="terra-ru" ,Terra
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="viasat-history" ,Viju History
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="365-dnej" ,365 дней ТВ
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="istoria" ,История
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="rtd-ru" ,RT Documentary HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="da-vinci" ,Da Vinci
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="dikaya-rybalka-hd" ,Дикая рыбалка HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="dikaya-oxota-hd" ,Дикая охота HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="dialogi-o-rybalke" ,Диалоги о рыбалке HD
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="dikiy" ,Дикий
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="oxota-i-rybalka" ,Охота и Рыбалка
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="avto24" ,Авто24
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sovsek" ,Совершенно секретно
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="vremia" ,Время
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="nostalgia" ,Ностальгия
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kto-est-kto" ,Кто есть кто
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bobior" ,Бобёр
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kuxnia-tv" ,Кухня ТВ
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="telekafe" ,Телекафе
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="vkus" ,Вкус
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="doktor" ,Доктор
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-relax" ,CineMan Relax 4K
+#EXTGRP:Познавательные
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="zhara" ,Жара HD
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="muztv" ,МУЗ-ТВ
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="europa-plus-tv" ,Europa Plus TV
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bridge-tv" ,Bridge TV
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bridge-hd" ,Bridge Deluxe HD
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bridge-tv-dance" ,Bridge Hits HD
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bridge-tv-classic" ,Bridge Classic orig
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bridge-tv-fresh" ,Bridge tv Фрэш
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bridge-tv-shlager" ,Bridge Шлягер
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bridge-tv-ruxit" ,Bridge Русский Хит
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bridge-tv-rock" ,Bridge Rock
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="bridge-tv-etno" ,Bridge TV Этно
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mtv-live-hd" ,MTV Live HD
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mcm-top" ,MCM Top Russia
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="yo" ,Ё Самара HD
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="shanson-tv" ,Шансон ТВ
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="la-minor" ,Ля-минор ТВ
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mezzo-live-hd" ,Mezzo Live HD
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mezzo" ,Mezzo
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="classic-music" ,Classic Music
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ru-tv" ,RU.TV
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="onemuz" ,Первый Музыкальный
+#EXTGRP:Музыка
+http://rtmp.one.by:2300
+#EXTINF:-1 ,Первый музыкальный BY
+#EXTGRP:Музыка
+http://rtmp.one.by:1300/
+#EXTINF:-1  tvg-id="m1-ua" ,M1 HD
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="m2-ua" ,M2 HD
+#EXTGRP:Музыка
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-kids4k" ,CineMan Kids 4K
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cartoons-big" ,Cartoons Big
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cartoons-short" ,Cartoons Short
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cartoons-90" ,Cartoons 90
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cineman-simps" ,CineMan Симпсоны
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mult" ,Мульт
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="liova" ,Лёва HD
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="karusel" ,Карусель
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="detsky" ,Уникум
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="v-gostiax-u-skazki" ,В гостях у сказки
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="detsky-mir" ,Детский мир
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="baby-time" ,Baby Time
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="o_" ,О!
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="sts-kids-hd" ,СТС Kids HD
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="malysh" ,Супергерои
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="multimania" ,Мультиландия
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kinomult" ,Киномульт
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tiji" ,Tiji
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="gulli-girl" ,Gulli
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="solnce" ,Солнце
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kidstv" ,Kids TV HD
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="nickelodeon-ru" ,Nickelodeon
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="nick-jr" ,Nick Jr
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cartoon-network" ,Cartoon Network
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cartoon-classics" ,Cartoon Classics
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="boomerang" ,Cartoonito
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="jimjam" ,JimJam
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="multimuzyka" ,МультиМузыка
+#EXTGRP:Детские
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="belarus1" ,Беларусь 1
+#EXTGRP:Беларусь
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="belarus2" ,Беларусь 2
+#EXTGRP:Беларусь
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="belarus3" ,Беларусь 3
+#EXTGRP:Беларусь
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="belarus24" ,Беларусь 24 HD
+#EXTGRP:Беларусь
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ont-by" ,ОНТ BY
+#EXTGRP:Беларусь
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="tro" ,БелРос
+#EXTGRP:Беларусь
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="stv-by" ,СТВ HD BY
+#EXTGRP:Беларусь
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="pervy-kanal-eurasia-kz" ,Первый канал Евразия
+#EXTGRP:Qazaqstan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kazakhstan" ,Qazaqstan
+#EXTGRP:Qazaqstan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="astana" ,Astana
+#EXTGRP:Qazaqstan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ktk-kz" ,КТК
+#EXTGRP:Qazaqstan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="xabar24" ,Хабар 24
+#EXTGRP:Qazaqstan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="31-kanal-kz" ,31 канал KZ
+#EXTGRP:Qazaqstan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ntk-kz" ,НТК
+#EXTGRP:Qazaqstan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mtrk-kz" ,МТРК
+#EXTGRP:Qazaqstan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="aztv" ,AzTV
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="medeniyyet" ,Medeniyyet TV
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ictimai-tv" ,Ictimai
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="azad-tv" ,Azad Azərbaycan (ATV)
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="xezer" ,Xezer
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cbc-az" ,CBC AZ
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="space-tv" ,Space TV
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="arb-az" ,ARB
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="arb-24" ,ARB24
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="arb-gunes" ,ARB Gunes
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kanal-s" ,Kanal S
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="dunya-az" ,Dunya TV
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="cbc-sport" ,CBC Sport
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="idman" ,Idman TV
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="mtv-az" ,MTV Azerbaycan
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="realtv-az" ,RealTV HD
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="baku-az" ,Baku TV
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="gunaz-tv" ,GUNAZ TV
+#EXTGRP:Azerbaijan
+http://iptv.ya.ru/
+#EXTINF:-1 ,1 TV Georgia
+#EXTGRP:Georgia
+http://iptv.ya.ru/
+#EXTINF:-1 ,2 TV
+#EXTGRP:Georgia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Imedi
+#EXTGRP:Georgia
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ajara-tv" ,Ajara TV
+#EXTGRP:Georgia
+http://iptv.ya.ru/
+#EXTINF:-1 ,GDS TV
+#EXTGRP:Georgia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Qartuli TV
+#EXTGRP:Georgia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Comedy Arkhi
+#EXTGRP:Georgia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Pos TV
+#EXTGRP:Georgia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Palitra News
+#EXTGRP:Georgia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Marao
+#EXTGRP:Georgia
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="balastan" ,Баластан
+#EXTGRP:Кыргызстан
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="madanyat" ,КТРК Маданият KG
+#EXTGRP:Кыргызстан
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ktrk-muzyka" ,КТРК Музыка
+#EXTGRP:Кыргызстан
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="utrk" ,УТРК
+#EXTGRP:Кыргызстан
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="ala-too-24" ,Ала-Тоо 24
+#EXTGRP:Кыргызстан
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="biz" ,Biz
+#EXTGRP:Oʻzbekiston
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="biz-cinema" ,Biz Cinema
+#EXTGRP:Oʻzbekiston
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="biz-music" ,Biz Music
+#EXTGRP:Oʻzbekiston
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="biz-music" ,Sport UZ
+#EXTGRP:Oʻzbekiston
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="my5-uz" ,My 5
+#EXTGRP:Oʻzbekiston
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="armenia-tv" ,Армения ТВ
+#EXTGRP:Armenia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Armenian Public TV
+#EXTGRP:Armenia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Shant TV
+#EXTGRP:Armenia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Кентрон
+#EXTGRP:Armenia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Shoghakat TV
+#EXTGRP:Armenia
+http://iptv.ya.ru/
+#EXTINF:-1 ,Новости Հ1
+#EXTGRP:Armenia
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="atv-armenia" ,ATV (Армения)
+#EXTGRP:Armenia
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="fast-sport-am" ,Fast Sports
+#EXTGRP:Armenia
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="trt-turk" ,TRT TURK HD
+#EXTGRP:Turkey
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="fox-hd-tr" ,FOX HD
+#EXTGRP:Turkey
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="atv-hd-tr" ,ATV HD
+#EXTGRP:Turkey
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kanal-d-hd" ,Kanal D
+#EXTGRP:Turkey
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="kanal-7-hd-tr" ,Kanal 7
+#EXTGRP:Turkey
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="trt-cocuk" ,TRT cocuk
+#EXTGRP:Turkey
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="trt-1-hd" ,TRT 1 HD TR
+#EXTGRP:Turkey
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="star-tv-hd-tr" ,STAR TV
+#EXTGRP:Turkey
+http://iptv.ya.ru/
+#EXTINF:-1  tvg-id="show-hd-tr" ,SHOW TV
+#EXTGRP:Turkey
+http://iptv.ya.ru/
+#EXT-X-ENDLIST
